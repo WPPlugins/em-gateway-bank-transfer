@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Events Manager Pro Virement\n"
+"POT-Creation-Date: 2017-05-13 08:02+0200\n"
+"PO-Revision-Date: 2017-05-13 08:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: Florent Maillefaud <contact@restezconnectes.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: add-ons/gateways/gateway.banktransfer.php:17
+msgid "Bank Transfer"
+msgstr "Virement Bancaire"
+
+#: add-ons/gateways/gateway.banktransfer.php:152
+msgid "Redirecting Message"
+msgstr "Redirection des messages"
+
+#: add-ons/gateways/gateway.banktransfer.php:155
+msgid "Please wait, you will be redirected ..."
+msgstr "Veuillez patienter, vous allez être redirigé..."
+
+#: add-ons/gateways/gateway.banktransfer.php:159
+msgid ""
+"Message that is shown to a user when a booking is successful whilst being "
+"redirected to Bank Transfer page for payment."
+msgstr ""
+"Message qui s’affiche à l’utilisateur lorsqu’une réservation est réussie, "
+"tout en étant redirigé vers la page du virement bancaire pour le paiement."
+
+#: add-ons/gateways/gateway.banktransfer.php:163
+msgid "Status text"
+msgstr "Texte en status"
+
+#: add-ons/gateways/gateway.banktransfer.php:166
+msgid "Awaiting Bank Transfer Payment"
+msgstr "En attente du Virement Bancaire"
+
+#: add-ons/gateways/gateway.banktransfer.php:170
+msgid "By default: <i>Awaiting Bank Transfer Payment</i>"
+msgstr "Par défaut : <i>En attente du Virement Bancaire</i>"
+
+#: add-ons/gateways/gateway.banktransfer.php:174
+msgid "Colors:"
+msgstr "Couleurs :"
+
+#: add-ons/gateways/gateway.banktransfer.php:176
+msgid "Select a color for the text. By default: <i>#333333</i>"
+msgstr "Sélectionnez une couleur pour le texte. Par défaut : <i>#333333</i>"
+
+#: add-ons/gateways/gateway.banktransfer.php:179
+msgid "Select a color for the background text. By default: <i>none</i>"
+msgstr ""
+"Sélectionnez une couleur pour le texte de fond. Par défaut : <i>aucune</i>"
+
+#: add-ons/gateways/gateway.banktransfer.php:186
+msgid "Redirection Page"
+msgstr "Page de redirection"
+
+#: add-ons/gateways/gateway.banktransfer.php:194
+msgid "Please select a page"
+msgstr "Merci de sélectionner une page"
+
+#: em-gateway-bank-transfer.php:69
+msgid "Settings"
+msgstr "Réglages"
+
+#: em-gateway-bank-transfer.php:84
+msgid ""
+"Please ensure both Events Manager and Events Manager Pro be enabled for the "
+"Bank Transfer gateway to work."
+msgstr ""
+"Veillez à ce que Events Manager et Events Manager Pro soient activées pour "
+"la passerelle de Virement Bancaire puisse fonctionner."
+
+#~ msgid "Awaiting banktransfer Payment"
+#~ msgstr "En attente du Virement Bancaire"
+
+#~ msgid "Need invoice before virement?"
+#~ msgstr "Besoin d'une facture avant le virement  ?"
+
+#~ msgid "Add Payment on invoice option?"
+#~ msgstr "Ajouter l'option du virement sur facture ?"
+
+#~ msgid "Enable this option to offer the user a choice of payment on invoice"
+#~ msgstr ""
+#~ "Activez cette option pour offrir à l'utilisateur le choix d'un virement "
+#~ "sur facture"
+
+#~ msgid "Payment has been registered."
+#~ msgstr "Le  paiement a été enregistré."
+
+#~ msgid "Booking is now fully paid and confirmed."
+#~ msgstr "La réservation est maintenant entièrement payée et confirmée."
+
+#~ msgid ""
+#~ "Please enter a valid payment amount. Numbers only, use negative number to "
+#~ "credit a booking."
+#~ msgstr ""
+#~ "Veuillez entrer un montant de paiement valide. Numéros uniquement, "
+#~ "utilisent nombre négatif pour une réservation de crédit."
+
+#~ msgid ""
+#~ "Be aware that by approving a booking awaiting payment, a full payment "
+#~ "transaction will be registered against this booking, meaning that it will "
+#~ "be considered as paid."
+#~ msgstr ""
+#~ "Sachez qu’en approuvant une réservation en attente de paiement, une "
+#~ "transaction de paiement intégral sera enregistrée contre cette "
+#~ "réservation, ce qui signifie qu’il sera considéré comme payé."
+
+#~ msgid "Add Booking"
+#~ msgstr "Ajouter une Réservation"
+
+#~ msgid "add booking"
+#~ msgstr "ajouter une réservation"
+
+#~ msgid "Add Virement Payment"
+#~ msgstr "Ajouter paiement Virement"
+
+#~ msgid "Amount"
+#~ msgstr "Montant"
+
+#~ msgid ""
+#~ "Please enter a valid payment amount (e.g. 10.00). Use negative numbers to "
+#~ "credit a booking."
+#~ msgstr ""
+#~ "Veuillez entrer un montant de paiement valide (p. ex. 10.00). Utilisez "
+#~ "des nombres négatifs pour une réservation de crédit."
+
+#~ msgid "Comments"
+#~ msgstr "Commentaires"
+
+#~ msgid "Go back to &quot;%s&quot; bookings"
+#~ msgstr "Revenir aux réservations &quot;%s&quot;"
+
+#~ msgid "Add Booking For &quot;%s&quot;"
+#~ msgstr "Ajouter réservation pour &quot;%s&quot;"
+
+#~ msgid "Manual booking."
+#~ msgstr "Réservation manuelle."
+
+#~ msgid "Add another booking"
+#~ msgstr "Ajouter une autre réservation"
+
+#~ msgid "Select a user, or enter a new one below."
+#~ msgstr "Sélectionnez un utilisateur, ou entrez un nouveau ci-dessous."
+
+#~ msgid "Amount Paid"
+#~ msgstr "Montant payé"
+
+#~ msgid "Fully Paid"
+#~ msgstr "Entièrement payé"
+
+#~ msgid ""
+#~ "If you check this as fully paid, and leave the amount paid blank, it will "
+#~ "be assumed the full payment has been made."
+#~ msgstr ""
+#~ "Si vous cochez cette case comme entièrement libérées et laissez en blanc "
+#~ "la somme versée, il sera assumé que le paiement complet a été effectué."
+
+#~ msgid "Return Success URL"
+#~ msgstr "URL de retour de réussite"
+
+#~ msgid "Awaiting Invoice for Virement"
+#~ msgstr "En attente de facture pour le virement"
+
+#~ msgid "By defaut: <i>Awaiting Virement Payment</i>"
+#~ msgstr "Par défaut: <i>En attente du Virement</i>"
+
+#~ msgid "Add Payment choice?"
+#~ msgstr "Ajouter choix de paiement ?"
+
+#~ msgid ""
+#~ "Enable this option to offer the user a choice of payment: now or on "
+#~ "invoice"
+#~ msgstr ""
+#~ "Activez cette option pour offrir à l’utilisateur un choix de paiement : "
+#~ "maintenant ou sur facture"
+
+#~ msgid "Payment Method"
+#~ msgstr "Méthode de paiement"
+
+#~ msgid "Payment now"
+#~ msgstr "Virement sans facture"
+
+#~ msgid "Payment on Invoice"
+#~ msgstr "Virement sur facture"
+
+#~ msgid "Text send"
+#~ msgstr "Envoi de texte"
+
+#~ msgid "Add texte here to send"
+#~ msgstr "Ajouter texte ici pour envoyer"
